@@ -23,8 +23,6 @@
  
 </p>
 
-<img src="https://github.blog/wp-content/uploads/2020/09/github-stars-logo_Color.png" alt="drawing" width="25"/> **Please, star the project on github (see top-right corner) if you appreciate my contribution to the community!**
-
 This Python package provides an efficient way to perform forced alignment between text and audio using Hugging Face's pretrained models. It leverages the power of Wav2Vec2, HuBERT, and MMS models for accurate alignment, making it a powerful tool for creating speech corpuses.
 
 ### Features
